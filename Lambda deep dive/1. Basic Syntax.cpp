@@ -13,6 +13,7 @@ TLDR:
 Lambda: Jotting a note or texting yourself = Efficient, on-the-spot mini tasks.
 
 
+
 1. Basic syntax
 
 [capture](parameters) -> return_type { body }
