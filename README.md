@@ -1,3 +1,1 @@
-Your three favourite collaborators have joined up for another LIFE CHANGING collaboration!
-
-ChatGTP, God and I will attempt to teach YOU, dear reader, all about C++ threads
+I've barely commented on this yet :/ it's all himothy
